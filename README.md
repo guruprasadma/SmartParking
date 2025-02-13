@@ -1,6 +1,5 @@
 # swayam
 This project is done by
-Nandakumar Naik N,
-Sachin K N,
-Preetham ,
-Shashank R Gowda
+Guru Prasad M A,
+Akshay K V,
+Darshan N K 
